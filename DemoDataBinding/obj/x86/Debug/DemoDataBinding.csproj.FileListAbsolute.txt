@@ -1,0 +1,9 @@
+D:\Users\CONGTHUONGIT.NET\Desktop\Demo\DemoDataBinding\bin\Debug\DemoDataBinding.exe
+D:\Users\CONGTHUONGIT.NET\Desktop\Demo\DemoDataBinding\bin\Debug\DemoDataBinding.pdb
+D:\Users\CONGTHUONGIT.NET\Desktop\Demo\DemoDataBinding\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\CONGTHUONGIT.NET\Desktop\Demo\DemoDataBinding\obj\x86\Debug\DemoDataBinding.frmSinhVien.resources
+D:\Users\CONGTHUONGIT.NET\Desktop\Demo\DemoDataBinding\obj\x86\Debug\DemoDataBinding.Properties.Resources.resources
+D:\Users\CONGTHUONGIT.NET\Desktop\Demo\DemoDataBinding\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Users\CONGTHUONGIT.NET\Desktop\Demo\DemoDataBinding\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Users\CONGTHUONGIT.NET\Desktop\Demo\DemoDataBinding\obj\x86\Debug\DemoDataBinding.exe
+D:\Users\CONGTHUONGIT.NET\Desktop\Demo\DemoDataBinding\obj\x86\Debug\DemoDataBinding.pdb
